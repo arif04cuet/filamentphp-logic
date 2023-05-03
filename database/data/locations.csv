@@ -1,0 +1,902 @@
+id,name,user_id,parent_id,location_type_id,logic_location
+1,Fakirhat,41,550,7,0
+2,Golbunia,41,177,6,1
+3,Mirzapur,41,296,6,1
+4,poshcimpara,41,181,6,1
+5,3,41,765,1,1
+6,Shahagonj,41,786,6,1
+7,Char Borhan,41,578,5,1
+8,Ekrampur,41,672,6,1
+9,4,41,7,1,1
+10,3,41,590,1,1
+11,Sosarkanda,41,102,6,1
+12,Dhangmari,41,304,6,1
+13,5,41,341,1,1
+14,Kashmohol Purbadhum,41,376,6,1
+15,3,41,823,1,1
+16,Uttar Char Shahajalal,41,259,6,1
+17,Pathor Khali Purba Para,41,696,6,1
+18,Dash Para,41,536,6,1
+19,2,41,94,1,1
+20,Char Sazai Shibir Para,41,714,6,1
+21,Molla kanda,41,101,6,1
+22,Satpukuria,41,769,6,1
+23,Uttar Kazokanda,41,251,6,1
+24,8,41,478,1,1
+25,Rayvog,41,420,6,1
+26,Vaijora,41,403,6,1
+27,5,41,77,1,1
+28,Uttar Bedkashi,41,33,5,1
+29,Omrithpur bilpara,41,211,6,1
+30,4,41,522,1,1
+31,9,41,397,1,1
+32,Lakurtola,41,420,6,1
+33,Koyra,41,406,7,1
+34,Kheya Ghat,41,644,6,1
+35,Meda,41,810,6,1
+36,Samchad,41,241,6,1
+37,5,41,770,1,1
+38,2,41,538,1,1
+39,Patakata,41,27,6,1
+40,Shimlar ait,41,52,6,1
+41,Gobindopur,41,426,6,1
+42,Bhatipara,41,139,5,1
+43,Shutirdhar,41,421,6,1
+44,6,41,416,1,1
+45,Brishnupur,41,618,6,1
+46,Kakchira,41,496,5,1
+47,Kochunali,41,211,6,1
+48,1,41,830,1,1
+49,Shesnei,41,48,6,1
+50,4,41,708,1,1
+51,Mondhiyata,41,123,6,1
+52,6,41,580,1,1
+53,Deuatala,41,664,6,1
+54,Baradal Notun Hati,41,728,6,1
+55,Rajnagor,41,30,6,1
+56,Char Bamoner Char,41,867,6,1
+57,1,41,236,1,1
+58,Burirchar,41,576,5,1
+59,Botiaghata,0,406,7,0
+60,Dokkhin Char Montaz (Noyar Char),41,806,6,1
+61,1,41,478,1,1
+62,Fakirdanga,41,30,6,1
+63,Satgory Para,41,540,6,1
+64,Kharuyar Par,41,895,6,1
+65,9,41,352,1,1
+66,Shikarpur,41,537,6,1
+67,Ramnogor,41,586,6,1
+68,Balijuri,41,269,5,1
+69,Sundhorbon,41,300,6,1
+70,Ragunathpur,41,122,6,1
+71,Mollahat,41,550,7,0
+72,Rupsa,41,766,6,1
+73,9,41,592,1,1
+74,6,41,602,1,1
+75,north panchakoralia,41,599,6,1
+76,Kalabagi (Partly),41,581,6,1
+77,Badarkhali,41,576,5,1
+78,Uttar Batamara,41,74,6,1
+79,Uttar Sreepur,41,269,5,1
+80,Sapmora,41,455,6,1
+81,5,41,205,1,1
+82,KARATI PARA,41,120,6,1
+83,Chanirchok,41,869,6,1
+84,Channir Chok,41,887,6,1
+85,Jgodispur,41,672,6,1
+86,Boroytola,41,177,6,1
+87,Kobirazpara,41,93,6,1
+88,Kalikapur,41,37,6,1
+89,East Sawdagarpara,41,593,6,1
+90,Majirhawla,41,183,6,1
+91,Kalabogi (Partly),41,869,6,1
+92,1,41,826,1,1
+93,9,41,148,1,1
+94,Kathaltoli,41,496,5,1
+95,Ratna Gheri,41,408,6,1
+96,5,41,590,1,1
+97,Kurigram,41,367,2,1
+98,Kulanja,41,139,5,0
+99,Loka,41,426,6,1
+100,Dholkutub,41,730,6,1
+101,3,41,711,1,1
+102,8,41,502,1,1
+103,4,41,443,1,1
+104,Dokkhin Char Montaz,41,384,6,1
+105,Char Uddna,41,895,6,1
+106,8,41,602,1,1
+107,Lamakata,41,300,6,1
+108,Masimpur,41,900,6,1
+109,Jokritari,41,895,6,1
+110,Baragor,41,401,6,1
+111,Naltona,41,38,6,1
+112,Char Sazai Dakshin Para,41,714,6,1
+113,Horinagar,41,627,6,1
+114,Khagaura,41,48,6,1
+115,7,41,813,1,1
+116,Uttar Kamnibashia,41,559,6,1
+117,5,41,258,1,1
+118,Paschim Joynagar,41,267,6,1
+119,sukhalain,41,627,6,1
+120,9,41,411,1,1
+121,Taltali,41,715,7,1
+122,5,41,68,1,1
+123,9,41,79,1,1
+124,Habibpur,41,299,5,1
+125,Jhugnidah Gram,41,24,6,1
+126,Baherchar,41,536,6,1
+127,Gonggipara,41,644,6,1
+128,Soto Madartila,41,81,6,1
+129,6,41,393,1,1
+130,8,41,411,1,1
+131,3,41,436,1,1
+132,Choto Abda,41,295,6,1
+133,Sorma,41,102,6,1
+134,9,41,478,1,1
+135,Vasandol,41,140,6,1
+136,6,41,777,1,1
+137,Char Fulbari,41,81,6,1
+138,Arhakhali,41,559,6,1
+139,Derai,41,796,7,1
+140,1,41,416,1,1
+141,Gutligram,41,237,6,1
+142,munuya,41,837,6,1
+143,Bocha Para,41,707,6,1
+144,Chotlakhali,41,817,6,1
+145,Majhir Hawla,41,101,6,1
+146,8,41,124,1,1
+147,Raniganj,41,158,5,1
+148,Sonakata,41,121,5,1
+149,South Burirchar,41,784,6,1
+150,Ramjibonpur,41,73,6,1
+151,Banishanta,41,609,5,1
+152,Rajdarpur,41,73,6,1
+153,Joynagor,41,869,6,1
+154,1,41,605,1,1
+155,5,41,58,1,1
+156,Medua,41,600,5,0
+157,Horinkhola,41,892,6,1
+158,Chilmari,41,97,7,1
+159,Jamirtola,41,44,6,1
+160,Rajoir,41,858,6,1
+161,Humakhali,41,756,6,1
+162,Garjonbunia,41,889,6,1
+163,Joyalvanga,41,291,6,1
+164,Joykhan,41,378,6,1
+165,Umed Pur,41,786,6,1
+166,Patuakhali,41,725,2,1
+167,Bijoy Nagor,41,540,6,1
+168,11 No. Asabaria,41,324,6,1
+169,Durgapur,41,185,6,1
+170,Golbunia,41,38,6,1
+171,2,41,221,1,1
+172,Abarater Gram,41,50,6,1
+173,Munshi Para,41,130,6,1
+174,7,41,196,1,1
+175,Keurhaula,41,848,6,1
+176,7,41,487,1,1
+177,1,41,389,1,1
+178,Tatulbaria,41,115,6,1
+179,Kodalkati,41,405,5,1
+180,South Char Borhan,41,512,6,1
+181,3,41,124,1,1
+182,Kurupardair,41,664,6,1
+183,7,41,711,1,1
+184,Rowmari,41,97,7,1
+185,2,41,675,1,1
+186,Porshim Ejlamari,41,81,6,1
+187,East Dhangmari,41,335,6,1
+188,Anwarpur,41,751,6,1
+189,Badarpur Purbo Para,41,704,6,1
+190,4,41,711,1,1
+191,Dhansagar,41,862,5,1
+192,7,41,678,1,1
+193,Mamodpur,41,295,6,1
+194,West Char Borhan,41,278,6,1
+195,Baguarchar,41,707,6,1
+196,Sayedpur,41,600,5,1
+197,Bisharighata,41,891,6,1
+198,Digraj,41,96,6,1
+199,Mawti,41,15,6,1
+200,Kandakala,41,797,6,1
+201,Guatola,41,44,6,1
+202,Baroikhali,41,403,6,1
+203,Char Beshtin,41,802,6,1
+204,Sarikkhali,41,121,5,0
+205,Rowmari,41,184,5,1
+206,Jiudhara,41,390,5,1
+207,Ratonpur,41,867,6,1
+208,Hawlader kanda,41,101,6,1
+209,Poshchim Khasmohol,41,734,6,1
+210,2,41,522,1,1
+211,5,41,79,1,1
+212,Islampur,41,211,6,1
+213,8,41,711,1,1
+214,2,41,28,1,1
+215,Matubbar kanda,41,324,6,1
+216,Doyarijara,41,415,6,1
+217,Shutirkona,41,421,6,1
+218,Mahmudpur,41,265,6,1
+219,Kakratoli,41,664,6,1
+220,Omrithpur,41,211,6,1
+221,Morelganj,41,390,5,1
+222,6 Nong Koyra,41,360,6,1
+223,North  Tetulbaria,41,574,6,1
+224,PACHIM RAJIBPUR,41,120,6,1
+225,Cipot nogor,41,265,6,1
+226,Chato madar tila,41,81,6,1
+227,ABC,41,575,7,0
+228,5 No Koyra,41,281,6,1
+229,Vatgaon,41,810,6,1
+230,9,41,813,1,1
+231,West Rajapur,41,312,6,1
+232,Sunapur,41,300,6,1
+233,AMRATALA,41,596,6,1
+234,Monipara,41,101,6,1
+235,6,41,124,1,1
+236,Dhania,41,270,5,1
+237,6,41,443,1,1
+238,Baroitala,41,403,6,1
+239,Mourapur,41,235,6,1
+240,9,41,531,1,1
+241,7,41,473,1,1
+242,8,41,352,1,1
+243,5,41,151,1,1
+244,Ghatakhali,41,892,6,1
+245,3,41,502,1,1
+246,Dulposi,41,730,6,1
+247,Shoptopeer,41,756,6,1
+248,Sutarkhali,41,609,5,1
+249,Jhilbunia,41,554,6,1
+250,1,41,719,1,1
+251,1,41,711,1,1
+252,7,41,719,1,1
+253,Golbunia,41,271,6,1
+254,Bagan Bari,41,895,6,1
+255,Baliakandi,41,57,6,1
+256,Rashkhola,41,554,6,1
+257,Noliyan,41,683,6,1
+258,Dakkhin Baradal,41,269,5,1
+259,9,41,7,1,1
+260,Khasmahol,41,734,6,1
+261,Indhopuir,41,300,6,1
+262,4,41,580,1,1
+263,Madberkanda,41,183,6,1
+264,4,41,669,1,1
+265,6,41,68,1,1
+266,Haripara,41,136,6,1
+267,4,41,508,1,1
+268,Dokkhin Joutha,41,812,6,1
+269,Tahirpur,41,796,7,1
+270,Bhola Sadar,41,750,7,1
+271,1,41,538,1,1
+272,Kala Chan Para,41,324,6,1
+273,Ronogopaldi,41,578,5,1
+274,7,41,531,1,1
+275,Rangabali,41,597,5,1
+276,Mothertoli,41,484,6,1
+277,Fakirer Hat bath,41,895,6,1
+278,1,41,7,1,1
+279,Koyra,41,33,5,1
+280,Sawdagarpara,41,593,6,1
+281,8,41,279,1,1
+282,Char Montaaj,41,597,5,1
+283,Laxmikhola,41,585,6,1
+284,Badarpur Paschim Para,41,704,6,1
+285,2,41,605,1,1
+286,1,41,221,1,1
+287,Char Kangkuli,41,644,6,1
+288,6,41,765,1,1
+289,Simitola,41,291,6,1
+290,Mirjakanda,41,810,6,1
+291,2,41,777,1,1
+292,Dottar Chok,41,559,6,1
+293,Rajar Vita,41,540,6,1
+294,8,41,397,1,1
+295,3,41,669,1,1
+296,1,41,502,1,1
+297,krishnapur,41,837,6,1
+298,Amtola,41,889,6,1
+299,Shalla,41,796,7,1
+300,1,41,79,1,1
+301,Charpata,41,600,5,0
+302,Nowdapara,41,867,6,1
+303,4,41,468,1,1
+304,9,41,151,1,1
+305,Motherbunia,41,536,6,1
+306,Dumuria,41,406,7,0
+307,Rupsha,41,406,7,0
+308,voraud,41,146,6,1
+309,Nijkata,41,734,6,1
+310,Fultola,41,406,7,0
+311,Jorshing (Partly),41,843,6,1
+312,6,41,191,1,1
+313,Uttor Dalvanga,41,495,6,1
+314,Gazi Mahmud,41,822,6,1
+315,Soto Madartila,41,81,6,1
+316,Kollani,41,586,6,1
+317,Notun Pur,41,867,6,1
+318,Khasardanga,41,769,6,1
+319,Modenar Char,41,130,6,1
+320,5,41,745,1,1
+321,Chitalmari,41,550,7,0
+322,South Hajarbiga,41,155,6,1
+323,Gulisakhali,41,747,6,1
+324,2,41,711,1,1
+325,Kalna,41,262,6,1
+326,Azam memberer Gram,41,24,6,1
+327,Khontakata,41,862,5,1
+328,Chotobaisdia,41,500,6,1
+329,Nachnapara,41,496,5,1
+330,Horipur,41,766,6,1
+331,Hajotkhali,41,214,6,1
+332,3,41,151,1,1
+333,Gulokpur,41,211,6,1
+334,Kawkandi,41,117,6,1
+335,6,41,151,1,1
+336,Notun Bondor,41,867,6,1
+337,Ongkujanpara,41,720,6,1
+338,ULUBUNIA,41,438,6,1
+339,Akondo Para,41,50,6,1
+340,1,41,279,1,1
+341,Uttar Joynagar,41,600,5,1
+342,Koraitola,41,455,6,1
+343,Kakrabunia,41,756,6,1
+344,4,41,527,1,1
+345,Momeshepara,41,611,6,1
+346,Patakhali,41,843,6,1
+347,Damerkhondo,41,415,6,1
+348,1,41,46,1,1
+349,Pathorkhali,41,696,6,1
+350,5,41,273,1,1
+351,Garkhali,41,756,6,1
+352,Dakkhin Digholdi,41,270,5,1
+353,9,41,489,1,1
+354,Sudonkholli,41,766,6,1
+355,Charnarchar,41,791,6,1
+356,Baradal Puran Hati,41,901,6,1
+357,jalalpur,41,73,6,1
+358,Khashmohol Paschim Dhum,41,734,6,1
+359,Amtala,41,332,6,1
+360,9,41,279,1,1
+361,Chilani Tahirpur,41,123,6,1
+362,4,41,416,1,1
+363,8,41,329,1,1
+364,Molla Para,41,294,6,1
+365,Deuatala,41,391,6,1
+366,Tali Para,41,540,6,1
+367,Rangpur,41,520,3,1
+368,Khordo Baspatari,41,134,6,1
+369,Kalabogi (Partly),41,844,6,1
+370,Patharkhali Munda Para,41,696,6,1
+371,Kachia,41,270,5,1
+372,Tildanga,41,609,5,1
+373,9,41,282,1,1
+374,Purbo Baherchar,41,536,6,1
+375,Noyagao,41,510,6,1
+376,6,41,711,1,1
+377,Putimari kazol,41,50,6,1
+378,9,41,695,1,1
+379,Baro Ongkujanpara,41,720,6,1
+380,Kachia,41,820,6,1
+381,Uttor Rajapur,41,154,6,1
+382,Char Anda,41,373,6,1
+383,Jirbunia,41,585,6,1
+384,7,41,282,1,1
+385,Moddhyo Char Bogla,41,376,6,1
+386,Kakchira,41,348,6,1
+387,Kazikanda,41,183,6,1
+388,7,41,527,1,1
+389,Dhalua,41,576,5,1
+390,Morelganj,41,550,7,1
+391,1,41,206,1,1
+392,Magarchor,41,348,6,1
+393,Raihanpur,41,496,5,1
+394,8,41,28,1,1
+395,Baincatkai,41,755,6,1
+396,11 No. Asabaria,41,183,6,1
+397,Mohanganj,41,405,5,1
+398,Tetul kandi,41,895,6,1
+399,Bhabanipur,41,600,5,0
+400,Chandokhali,41,455,6,1
+401,3,41,830,1,1
+402,Nowagaw,41,586,6,1
+403,8,41,206,1,1
+404,Poschim Elisia,41,270,5,0
+405,Char Rajibpur,41,97,7,1
+406,Khulna,41,759,2,1
+407,Bahara,41,299,5,1
+408,4,41,28,1,1
+409,Moiyajuri,41,123,6,1
+410,Isakpur (Bro Hati),41,295,6,1
+411,Rajibpur,41,405,5,1
+412,Noyar Char,41,81,6,1
+413,4,41,151,1,1
+414,Naya Hat,41,751,6,1
+415,6,41,590,1,1
+416,Nishanbaria,41,390,5,1
+417,Morkhali,41,420,6,1
+418,Dhangmari,41,335,6,1
+419,Uttar Sutalori,41,789,6,1
+420,4,41,389,1,1
+421,3,41,580,1,1
+422,Bedkashi,41,214,6,1
+423,Rahutola,41,296,6,1
+424,Rotiya Rajapur,41,312,6,1
+425,6,41,148,1,1
+426,5,41,580,1,1
+427,kamargou,41,264,6,1
+428,Pashurtala,41,696,6,1
+429,3,41,719,1,1
+430,Borober,41,537,6,1
+431,West Baniashanta,41,413,6,1
+432,Agathakurpara,41,611,6,1
+433,Ratonpur,41,300,6,1
+434,Char Borhan,41,9,6,1
+435,Kawkhali,41,827,6,1
+436,Bandaber,41,184,5,1
+437,Sunakani,41,296,6,1
+438,8,41,695,1,1
+439,Baradal Khasru Para,41,728,6,1
+440,Harinkhola,41,593,6,1
+441,Mothbari Morholer ler Chak,41,421,6,1
+442,Khasmahol,41,376,6,1
+443,Dantbhanga,41,184,5,1
+444,Deula,41,809,5,1
+445,9,41,487,1,1
+446,Noyani,41,693,6,1
+447,Gabtala,41,286,6,1
+448,Dokkhin Kazikanda,41,101,6,1
+449,Kasiya Buniya,41,251,6,1
+450,Sankarpur Para,41,294,6,1
+451,Khasmahol,41,213,6,1
+452,2,41,669,1,1
+453,Gongapur,41,809,5,0
+454,Pajravanga,41,192,6,1
+455,9,41,777,1,1
+456,Baro Amkhola,41,713,6,1
+457,Bhagba Dakkshin,41,481,6,1
+458,Bollapara,41,867,6,1
+459,PC Baroikhali,41,362,6,1
+460,Noliyan,41,771,6,1
+461,8,41,371,1,1
+462,Mothertoli,41,129,6,1
+463,Islampur,41,679,6,1
+464,1,41,590,1,1
+465,Kali bari,41,348,6,1
+466,Sawdesree,41,618,6,1
+467,Mirkanda,41,213,6,1
+468,Chhota Baishdia,41,597,5,1
+469,Latabaria,41,495,6,1
+470,9,41,605,1,1
+471,Aguyai,41,146,6,1
+472,Boloybunia,41,390,5,0
+473,Bara Baishdia,41,597,5,1
+474,Poshchim Dhangmari,41,304,6,1
+475,Sobuzpara,41,31,6,1
+476,puran baronka,41,265,6,1
+477,Kalabogi,41,844,6,1
+478,Ashtamirchar,41,158,5,1
+479,Nishanbaria,41,822,6,1
+480,Baniashanta Bazar,41,243,6,1
+481,7,41,770,1,1
+482,4,41,273,1,1
+483,3,41,478,1,1
+484,5,41,393,1,1
+485,Goalpara,41,31,6,1
+486,9,41,826,1,1
+487,Baraikhali,41,390,5,1
+488,Mamber Para,41,130,6,1
+489,Chandpai,41,575,5,1
+490,Noya Para,41,130,6,1
+491,Khamar,41,24,6,1
+492,Tetulbaria,41,747,6,1
+493,Bhati Jatrapur,41,797,6,1
+494,East Tetulbaria,41,574,6,1
+495,2,41,389,1,1
+496,Patharghata,41,715,7,1
+497,1,41,834,1,1
+498,Manik Khali,41,363,6,1
+499,Mazkhali,41,495,6,1
+500,1,41,468,1,1
+501,Uttor Eslamari,41,81,6,1
+502,Atgaon,41,299,5,1
+503,Kolakopa,41,5,6,1
+504,Razar Bazar,41,644,6,1
+505,Foridpur,41,595,6,1
+506,Jagddal,41,139,5,0
+507,Purba Elisia,41,406,7,0
+508,Dakkhin Joynagar,41,600,5,1
+509,Dakhin Baincatkai,41,800,6,1
+510,2,41,823,1,1
+511,Renditola,41,647,6,1
+512,3,41,7,1,1
+513,Ujan jatrapur,41,797,6,1
+514,Ganpara,41,872,6,1
+515,Joypur,41,52,6,1
+516,Guli,41,667,6,1
+517,Doshalia,41,426,6,1
+518,Hafezkanda,41,213,6,1
+519,Kharkhoria,41,769,6,1
+520,Bangladesh,41,0,4,1
+521,Bottola,41,647,6,1
+522,Kamarkhola,41,609,5,1
+523,Khamar Baspatar,41,134,6,1
+524,Velumia,41,270,5,0
+525,Nayerchar Bhotang Para,41,31,6,1
+526,Gupinater Nuagaoan,41,672,6,1
+527,Rajapur,41,270,5,1
+528,3,41,94,1,1
+529,Joynagor,41,30,6,1
+530,8,41,196,1,1
+531,Dakkhin Bedkashi,41,33,5,1
+532,Bazarpara,41,31,6,1
+533,Mostofa memberer Gram,41,134,6,1
+534,Char Beshtin,41,536,6,1
+535,Sennogor,41,452,6,1
+536,1,41,275,1,1
+537,2,41,397,1,1
+538,Naltona,41,576,5,1
+539,North Tetulbaria,41,747,6,1
+540,7,41,708,1,1
+541,Jaliyakhali,41,887,6,1
+542,Charpara,41,593,6,1
+543,Atra,41,52,6,1
+544,Shib Nogor,41,30,6,1
+545,Gulisakhali Majher chor,41,747,6,1
+546,3,41,770,1,1
+547,Hasimpur,41,185,6,1
+548,Bhojonkhali,41,335,6,1
+549,Patharghata Sadar,41,496,5,0
+550,Bagerhat,41,759,2,1
+551,Farigat,41,755,6,1
+552,Rangachara,41,300,6,1
+553,1,41,397,1,1
+554,5,41,372,1,1
+555,Jamal Mazhi,41,251,6,1
+556,Soto Botbunia,41,559,6,1
+557,Purba Khashmahal,41,376,6,1
+558,Dokkhin Kazikanda,41,101,6,1
+559,6,41,372,1,1
+560,Didarullah,41,288,6,1
+561,Joypur,41,123,6,1
+562,Meddel Tetulbaria,41,747,6,1
+563,8,41,489,1,1
+564,4,41,436,1,1
+565,Gonganagor,41,595,6,1
+566,Khordo,41,24,6,1
+567,Purba Elisia,41,270,5,0
+568,Shrihail,41,452,6,1
+569,Baniashanta Brothel,41,243,6,1
+570,Chotla Kanda,41,486,6,1
+571,Raghunathpur,41,797,6,1
+572,2,41,695,1,1
+573,Dhalirkhonda,41,415,6,1
+574,7,41,77,1,1
+575,Mongla,41,550,7,1
+576,Barguna Sadar,41,715,7,1
+577,sahebnagar,41,73,6,1
+578,Dashmina,41,166,7,1
+579,Aga Madurpalta,41,415,6,1
+580,Maharajpur,41,33,5,1
+581,8,41,248,1,1
+582,Monosatoli,41,291,6,1
+583,Teghoriya,41,415,6,1
+584,Purbo Ejlamari,41,81,6,1
+585,5,41,834,1,1
+586,3,41,675,1,1
+587,8,41,508,1,1
+588,Badarkhali,41,27,6,1
+589,Bhagba Uttar,41,481,6,1
+590,Sundarban,41,575,5,1
+591,Bager hati,41,797,6,1
+592,Dakkhin Sreepur,41,269,5,1
+593,8,41,678,1,1
+594,4,41,826,1,1
+595,9,41,502,1,1
+596,4,41,695,1,1
+597,Rangabali,41,166,7,1
+598,5,41,508,1,1
+599,1,41,777,1,1
+600,Daulatkhan,41,750,7,1
+601,Mothbari Polobhangar Chak,41,421,6,1
+602,Bara Manika,41,809,5,1
+603,Gobra,41,892,6,1
+604,Habib Memberer Gram,41,134,6,1
+605,Rayenda,41,862,5,1
+606,Baradal Jhalohati,41,728,6,1
+607,Noyar Char,41,806,6,1
+608,Dakkshin Bedkashi,41,274,6,1
+609,Dacope,41,406,7,1
+610,Nijkata,41,213,6,1
+611,5,41,678,1,1
+612,Rajapur,41,312,6,1
+613,Uttar Modinabad,41,340,6,1
+614,Mirkanda,41,734,6,1
+615,2,41,206,1,1
+616,Hogolpati,41,140,6,1
+617,Nishankhali,41,559,6,1
+618,9,41,124,1,1
+619,Nawa Bari,41,540,6,1
+620,Rekhamari,41,30,6,1
+621,Teli Para,41,804,6,1
+622,Kirtantori,41,537,6,1
+623,Shimerkandha,41,837,6,1
+624,Rampal,41,550,7,0
+625,Purba Awliyapur,41,482,6,1
+626,Rouwa,41,264,6,1
+627,1,41,407,1,1
+628,4,41,191,1,1
+629,Kathaltoli,41,528,6,1
+630,Bahara South,41,797,6,1
+631,Foyojullapur,41,618,6,1
+632,Mujrai,41,123,6,1
+633,Panchpotton,41,536,6,1
+634,Mridhakanda,41,190,6,1
+635,Binodhpur,41,300,6,1
+636,Kajirkhal,41,192,6,1
+637,Dhankhali,41,769,6,1
+638,Okrakanda,41,486,6,1
+639,Boro Abda(Notun Hati),41,295,6,1
+640,Alompur,41,295,6,1
+641,Burburia,41,96,6,1
+642,narkila,41,146,6,1
+643,Jalalipara,41,408,6,1
+644,5,41,275,1,1
+645,Atgaon,41,245,6,1
+646,6,41,719,1,1
+647,6,41,275,1,1
+648,Bashakoros,41,401,6,1
+649,Panbari,41,408,6,1
+650,Kamalpur,41,123,6,1
+651,Char Rustom,41,802,6,1
+652,Satani,41,546,6,1
+653,Noliyan (Partly),41,771,6,1
+654,Shingrabunia,41,800,6,1
+655,Taral,41,139,5,0
+656,Kaminibasia,41,554,6,1
+657,Marala,41,672,6,1
+658,Koraitola,41,136,6,1
+659,Bro Ankujan Para Khotta,41,720,6,1
+660,Fakirer Vita,41,50,6,1
+661,Panchakoralia,41,291,6,1
+662,Tiorjalal,41,122,6,1
+663,Borobari,41,408,6,1
+664,3,41,206,1,1
+665,Chiriyargow,41,123,6,1
+666,Petikata,41,304,6,1
+667,7,41,236,1,1
+668,Noliyan (Partly),41,683,6,1
+669,Sulla,41,299,5,1
+670,Kholishajuri Noyabari,41,211,6,1
+671,Nijkata,41,190,6,1
+672,8,41,592,1,1
+673,5,41,675,1,1
+674,Jugirhawla,41,647,6,1
+675,Derai Sarmangal,41,139,5,1
+676,Gatir Gheri,41,394,6,1
+677,Kholishajuri,41,211,6,1
+678,Barabagi,41,121,5,1
+679,1,41,42,1,1
+680,Bina Pani,41,240,6,1
+681,Megharaite,41,262,6,1
+682,Mamudnagor,41,595,6,1
+683,5,41,248,1,1
+684,Pashkhali,41,403,6,1
+685,8,41,745,1,1
+686,Bapari Para,41,867,6,1
+687,Dumuria,41,615,6,1
+688,Jamai Para,41,707,6,1
+689,Bagerhat Sadar,41,550,7,0
+690,P. Jaynagor,41,30,6,1
+691,Natun para,41,294,6,1
+692,Hafej Kanda,41,190,6,1
+693,2,41,770,1,1
+694,Pankhali 1,41,497,6,1
+695,Sonailtala,41,575,5,1
+696,6,41,28,1,1
+697,Kachua,41,550,7,0
+698,Napitkhali,41,155,6,1
+699,moheshpur,41,181,6,1
+700,Soto Sonailtala,41,572,6,1
+701,Char Kashem,41,644,6,1
+702,Moranidra,41,230,6,1
+703,Monipara,41,241,6,1
+704,7,41,411,1,1
+705,East Burirchar,41,155,6,1
+706,Kankuni Para,41,804,6,1
+707,5,41,436,1,1
+708,Thanahat,41,158,5,1
+709,Kartikpur,41,15,6,1
+710,Mazasthal Badh,41,540,6,1
+711,Moudubi,41,597,5,1
+712,9,41,179,1,1
+713,8,41,148,1,1
+714,5,41,179,1,1
+715,Barguna,41,725,2,1
+716,Ashabaria,41,324,6,1
+717,Ujjalpur,41,73,6,1
+718,Asgar Dayani Para,41,130,6,1
+719,Southkhali,41,862,5,1
+720,1,41,813,1,1
+721,Kalarkandi,41,797,6,1
+722,Muhonkholli,41,766,6,1
+723,Rajapur,41,344,6,1
+724,Kalikabari,41,563,6,1
+725,Barisal,41,520,3,1
+726,Uzan Jhagrar Char,41,237,6,1
+727,Katakhali,41,332,6,1
+728,7,41,258,1,1
+729,Veduria,41,270,5,0
+730,7,41,42,1,1
+731,Samudabad,41,644,6,1
+732,Humakhali,41,554,6,1
+733,Kathaltoli,41,19,6,1
+734,5,41,711,1,1
+735,Fulbari,41,81,6,1
+736,Mokrumpara,41,848,6,1
+737,Kathaltala,41,171,6,1
+738,Sreepur,41,786,6,1
+739,Howlardanga,41,664,6,1
+740,Megna,41,401,6,1
+741,PainnaKhali,41,300,6,1
+742,Abul Memberer Gram Natun Char,41,134,6,1
+743,Tukchanpur,41,146,6,1
+744,Belal Dewanir Gram,41,134,6,1
+745,Mithakhali,41,575,5,1
+746,Mollakanda,41,183,6,1
+747,8,41,77,1,1
+748,Char Ashabariya,41,324,6,1
+749,Fakir Para Badh,41,895,6,1
+750,Bhola,41,725,2,1
+751,4,41,68,1,1
+752,Hajarpur,41,586,6,1
+753,7,41,489,1,1
+754,Tangalia Para,41,704,6,1
+755,9,41,46,1,1
+756,2,41,372,1,1
+757,5,41,327,1,1
+758,Karibaria,41,121,5,0
+759,Khulna,41,520,3,1
+760,Shankarpur,41,295,6,1
+761,Sylhet,41,520,3,1
+762,Baladmara,41,707,6,1
+763,Masterpara,41,31,6,1
+764,Rayertabok,41,852,6,1
+765,Char Khalifa,41,600,5,1
+766,6,41,407,1,1
+767,Khuria Motbari,41,421,6,1
+768,Laxmikhola,41,884,6,1
+769,7,41,745,1,1
+770,Maheshwaripur,41,33,5,1
+771,6,41,248,1,1
+772,Meghnapara,41,766,6,1
+773,Horidrakhali,41,303,6,1
+774,5,41,191,1,1
+775,8,41,341,1,1
+776,Sankarpur,41,294,6,1
+777,Pachakoralia,41,121,5,1
+778,Chairkhali,41,848,6,1
+779,panchakoralia,41,599,6,1
+780,Ainul Moller Gram,41,24,6,1
+781,Dhaka,41,520,3,1
+782,1,41,443,1,1
+783,Badurtala,41,787,6,1
+784,6,41,58,1,1
+785,Dalvanga,41,495,6,1
+786,7,41,592,1,1
+787,4,41,221,1,1
+788,Khanirkhando,41,615,6,1
+789,6,41,487,1,1
+790,Shibpur,41,270,5,0
+791,1,41,823,1,1
+792,jamal pur,41,265,6,1
+793,Gulabari,41,123,6,1
+794,Kadomtola,41,420,6,1
+795,Bogi,41,252,6,1
+796,Sunamganj,41,761,2,1
+797,3,41,407,1,1
+798,patarhi,41,122,6,1
+799,Baushmari,41,486,6,1
+800,7,41,46,1,1
+801,Lalu Para,41,425,6,1
+802,1,41,282,1,1
+803,Potkakhali,41,177,6,1
+804,9,41,473,1,1
+805,Kamonapara,41,300,6,1
+806,8,41,282,1,1
+807,Khatiamari,41,867,6,1
+808,Lokkhikhola (Partly),41,585,6,1
+809,Borhanuddin,41,750,7,1
+810,9,41,407,1,1
+811,6,41,436,1,1
+812,6,41,273,1,1
+813,Nisanbaria,41,121,5,1
+814,Pakhiura,41,707,6,1
+815,9,41,147,1,1
+816,Mouja Thana,41,540,6,1
+817,9,41,468,1,1
+818,Islampur,41,510,6,1
+819,Kalachader Dair,41,664,6,1
+820,4,41,371,1,1
+821,Amtola,41,413,6,1
+822,7,41,538,1,1
+823,Charnarchar,41,139,5,1
+824,9,41,341,1,1
+825,4,41,327,1,1
+826,Shoulmari,41,184,5,1
+827,2,41,468,1,1
+828,alinogor,41,845,6,1
+829,chakuya,41,181,6,1
+830,Rafinagar,41,139,5,1
+831,Mondol Para,41,50,6,1
+832,Charakkhola,41,129,6,1
+833,Sonatola,41,852,6,1
+834,Pankhali,41,609,5,1
+835,South Tetulbaria,41,574,6,1
+836,Hasan Nagar,41,809,5,0
+837,5,41,669,1,1
+838,8,41,179,1,1
+839,Azgorkati,41,271,6,1
+840,Nuyarchor,41,15,6,1
+841,Kazi kanda,41,251,6,1
+842,Angarua,41,627,6,1
+843,6,41,531,1,1
+844,9,41,248,1,1
+845,2,41,42,1,1
+846,phondub,41,73,6,1
+847,Islampu Pscim Hati,41,295,6,1
+848,8,41,473,1,1
+849,Sonatala,41,664,6,1
+850,Channir Chak,41,585,6,1
+851,Terokhada,41,406,7,0
+852,1,41,58,1,1
+853,Char Sazai Master Para,41,714,6,1
+854,Teroghar,41,300,6,1
+855,Moni Para,41,251,6,1
+856,Baradal Bagbari,41,901,6,1
+857,East Burirchar,41,784,6,1
+858,7,41,327,1,1
+859,Ramdebpur,41,461,6,1
+860,Kalachanpara,41,241,6,1
+861,Noyanogor,41,672,6,1
+862,Sharankhola,41,550,7,1
+863,MODHYA JOYNAGOR,41,775,6,1
+864,2,41,719,1,1
+865,Birendhonogor,41,300,6,1
+866,Gaiyapara,41,241,6,1
+867,4,41,205,1,1
+868,Digholia,41,406,7,0
+869,5,41,522,1,1
+870,Narionpur,41,235,6,1
+871,Horihorpur,41,394,6,1
+872,4,41,329,1,1
+873,Shatalia,41,37,6,1
+874,Noyavhaijora,41,611,6,1
+875,markuli,41,146,6,1
+876,Dantbhanga,41,237,6,1
+877,Bangalpara,41,185,6,1
+878,Rupdhon,41,800,6,1
+879,Mondal Para,41,704,6,1
+880,Paschim Char Bogla,41,734,6,1
+881,Gohinkhali,41,303,6,1
+882,Kamalpur,41,510,6,1
+883,Kalasura,41,667,6,1
+884,6,41,834,1,1
+885,Aguyai,41,235,6,1
+886,Noagaon,41,627,6,1
+887,3,41,522,1,1
+888,Gobindhopur,41,264,6,1
+889,3,41,538,1,1
+890,Kamarkhola 2,41,210,6,1
+891,6,41,221,1,1
+892,3,41,279,1,1
+893,Char Sazai Dewani Para,41,714,6,1
+894,Patharkhali Poshchim Para,41,696,6,1
+895,2,41,147,1,1
+896,Luharchura,41,122,6,1
+897,South Batamara,41,106,6,1
+898,Jaroliya,41,673,6,1
+899,Kamdebpur,41,73,6,1
+900,4,41,830,1,1
+901,6,41,258,1,1
